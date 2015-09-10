@@ -1,0 +1,11 @@
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe.config
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.exe
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\FacturaElectronica.pdb
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\FileHelpers.dll
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\FileHelpers.xml
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.exe
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.pdb
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\NLog.dll
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\NLog.xml
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\bin\Debug\NLog.config
+F:\DESARROLLOS\FacturaElectronica\FacturaElectronica\obj\Debug\FacturaElectronica.csprojResolveAssemblyReference.cache

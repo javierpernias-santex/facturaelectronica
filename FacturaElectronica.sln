@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturaElectronica", "FacturaElectronica\FacturaElectronica.csproj", "{CFEE4F6A-288E-4471-8FE7-A9FAB55B134C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEE4F6A-288E-4471-8FE7-A9FAB55B134C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEE4F6A-288E-4471-8FE7-A9FAB55B134C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEE4F6A-288E-4471-8FE7-A9FAB55B134C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEE4F6A-288E-4471-8FE7-A9FAB55B134C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

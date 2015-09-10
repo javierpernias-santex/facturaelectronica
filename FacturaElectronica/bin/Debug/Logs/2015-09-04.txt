@@ -1,0 +1,59 @@
+[2015/09/04 16:20:37.743](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:20:37.772](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:20:37.772](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:20:37.780](Info):Buscando archivos de factura 
+[2015/09/04 16:20:37.780](Info):Se encontraron 2 archivos para procesar 
+[2015/09/04 16:20:38.270](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/04 16:20:38.779](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022763.Ele 
+[2015/09/04 16:20:38.802](Info):Procesando Factura N°0001-00000002 
+[2015/09/04 16:20:40.248](Info):Factura aprobada con CAE N°: 65368300811568 con vencimiento 20150915 
+[2015/09/04 16:20:40.258](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/04 16:20:40.258](Info):Procesando Factura N°0001-00000003 
+[2015/09/04 16:20:41.335](Info):Factura aprobada con CAE N°: 65368300811571 con vencimiento 20150915 
+[2015/09/04 16:20:41.335](Info):Fin procesamiento 
+[2015/09/04 16:36:40.397](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:36:40.426](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:36:40.426](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:36:40.431](Info):Buscando archivos de factura 
+[2015/09/04 16:36:40.431](Error):No se encontro archivo para procesar 
+[2015/09/04 16:36:40.431](Info):Fin procesamiento 
+[2015/09/04 16:36:58.834](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:36:58.863](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:36:58.863](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:36:58.871](Info):Buscando archivos de factura 
+[2015/09/04 16:36:58.871](Info):Se encontraron 1 archivos para procesar 
+[2015/09/04 16:36:59.336](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/04 16:36:59.831](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/04 16:36:59.854](Info):Procesando Factura N°0001-00000003 
+[2015/09/04 16:37:01.358](Info):Factura aprobada con CAE N°: 65368300816681 con vencimiento 20150915 
+[2015/09/04 16:37:01.369](Info):Fin procesamiento 
+[2015/09/04 16:38:12.424](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:38:12.451](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:38:12.451](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:38:12.456](Info):Buscando archivos de factura 
+[2015/09/04 16:38:12.456](Error):No se encontro archivo para procesar 
+[2015/09/04 16:38:12.456](Info):Fin procesamiento 
+[2015/09/04 16:38:20.983](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:38:21.017](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:38:21.017](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:38:21.017](Info):Buscando archivos de factura 
+[2015/09/04 16:38:21.017](Info):Se encontraron 1 archivos para procesar 
+[2015/09/04 16:38:21.702](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/04 16:38:22.244](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/04 16:38:22.263](Info):Procesando Comprobante N°0001-00000003 
+[2015/09/04 16:39:09.816](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 16:39:09.843](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 16:39:09.843](Info):Modo Ejecucion: Testing 
+[2015/09/04 16:39:09.848](Info):Buscando archivos de factura 
+[2015/09/04 16:39:09.848](Info):Se encontraron 1 archivos para procesar 
+[2015/09/04 16:39:10.430](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/04 16:39:11.347](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/04 16:39:11.369](Info):Procesando Comprobante N°0001-00000003 
+[2015/09/04 17:12:20.766](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/04 17:12:20.792](Info):Leyendo configuracion de aplicacion 
+[2015/09/04 17:12:20.792](Info):Modo Ejecucion: Testing 
+[2015/09/04 17:12:20.792](Info):Buscando archivos de factura 
+[2015/09/04 17:12:20.792](Info):Se encontraron 1 archivos para procesar 
+[2015/09/04 17:12:21.421](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/04 17:12:22.000](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/04 17:12:22.019](Info):Procesando Comprobante N°0001-00000003 

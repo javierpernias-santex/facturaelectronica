@@ -1,0 +1,62 @@
+[2015/09/10 20:42:07.404](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/10 20:42:07.424](Info):Leyendo configuracion de aplicacion 
+[2015/09/10 20:42:07.424](Info):Modo Ejecucion: Testing 
+[2015/09/10 20:42:07.424](Info):Buscando archivos de factura 
+[2015/09/10 20:42:07.424](Info):Se encontraron 2 archivos para procesar 
+[2015/09/10 20:42:08.031](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/10 20:42:08.682](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022763.Ele 
+[2015/09/10 20:42:08.702](Info):Procesando Comprobante N∞0001-00000002 
+[2015/09/10 20:42:51.717](Info):Errores reportados por web service de la AFIP 
+[2015/09/10 20:42:51.717](Error):Codigo: 10016
+Mensaje: El n√∫mero o fecha del comprobante no se corresponde con el pr√≥ximo a autorizar. Consultar metodo FECompUltimoAutorizado. 
+[2015/09/10 20:42:51.717](Info):Factura rechaza sin observaciones 
+[2015/09/10 20:42:51.717](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/10 20:42:51.717](Info):Procesando Comprobante N∞0001-00000003 
+[2015/09/10 20:42:53.855](Info):Factura aprobada con CAE N∞: 65378304691691 con vencimiento 20150920 
+[2015/09/10 20:43:00.246](Info):Fin procesamiento 
+[2015/09/10 20:44:24.474](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/10 20:44:24.494](Info):Leyendo configuracion de aplicacion 
+[2015/09/10 20:44:24.504](Info):Modo Ejecucion: Testing 
+[2015/09/10 20:44:24.504](Info):Buscando archivos de factura 
+[2015/09/10 20:44:24.504](Info):Se encontraron 2 archivos para procesar 
+[2015/09/10 20:44:25.094](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/10 20:44:25.606](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022763.Ele 
+[2015/09/10 20:44:25.626](Info):Procesando Comprobante N∞0001-00000002 
+[2015/09/10 20:44:30.035](Info):Errores reportados por web service de la AFIP 
+[2015/09/10 20:44:30.035](Error):Codigo: 10016
+Mensaje: El n√∫mero o fecha del comprobante no se corresponde con el pr√≥ximo a autorizar. Consultar metodo FECompUltimoAutorizado. 
+[2015/09/10 20:44:30.035](Info):Factura rechaza sin observaciones 
+[2015/09/10 20:44:30.035](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/10 20:44:30.035](Info):Procesando Comprobante N∞0001-00000003 
+[2015/09/10 20:44:31.091](Info):Factura aprobada con CAE N∞: 65378304691722 con vencimiento 20150920 
+[2015/09/10 20:46:38.952](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/10 20:46:38.982](Info):Leyendo configuracion de aplicacion 
+[2015/09/10 20:46:38.982](Info):Modo Ejecucion: Testing 
+[2015/09/10 20:46:38.982](Info):Buscando archivos de factura 
+[2015/09/10 20:46:38.982](Info):Se encontraron 2 archivos para procesar 
+[2015/09/10 20:46:39.545](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/10 20:46:41.280](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022763.Ele 
+[2015/09/10 20:46:41.300](Info):Procesando Comprobante N∞0001-00000002 
+[2015/09/10 20:46:42.414](Info):Errores reportados por web service de la AFIP 
+[2015/09/10 20:46:42.424](Error):Codigo: 10016
+Mensaje: El n√∫mero o fecha del comprobante no se corresponde con el pr√≥ximo a autorizar. Consultar metodo FECompUltimoAutorizado. 
+[2015/09/10 20:46:42.424](Info):Factura rechaza sin observaciones 
+[2015/09/10 20:46:42.424](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/10 20:46:42.424](Info):Procesando Comprobante N∞0001-00000003 
+[2015/09/10 20:46:43.282](Info):Factura aprobada con CAE N∞: 65378304691751 con vencimiento 20150920 
+[2015/09/10 20:46:45.546](Info):Fin procesamiento 
+[2015/09/10 20:47:27.633](Info):Comienzo Proceso Obtencion de CAE 
+[2015/09/10 20:47:27.663](Info):Leyendo configuracion de aplicacion 
+[2015/09/10 20:47:27.663](Info):Modo Ejecucion: Testing 
+[2015/09/10 20:47:27.663](Info):Buscando archivos de factura 
+[2015/09/10 20:47:27.663](Info):Se encontraron 2 archivos para procesar 
+[2015/09/10 20:47:28.295](Info):Llamando al WSAA en URL: https://wsaahomo.afip.gov.ar/ws/services/LoginCms?WSDL 
+[2015/09/10 20:47:28.778](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022763.Ele 
+[2015/09/10 20:47:28.798](Info):Procesando Comprobante N∞0001-00000002 
+[2015/09/10 20:47:29.887](Info):Errores reportados por web service de la AFIP 
+[2015/09/10 20:47:29.897](Error):Codigo: 10016
+Mensaje: El n√∫mero o fecha del comprobante no se corresponde con el pr√≥ximo a autorizar. Consultar metodo FECompUltimoAutorizado. 
+[2015/09/10 20:47:29.897](Info):Factura rechaza sin observaciones 
+[2015/09/10 20:47:29.897](Info):Leyendo archivo C:\factura_electronica\archivos\pFE_000000022799.Ele 
+[2015/09/10 20:47:29.897](Info):Procesando Comprobante N∞0001-00000003 
+[2015/09/10 20:47:30.660](Info):Factura aprobada con CAE N∞: 65378304691780 con vencimiento 20150920 
